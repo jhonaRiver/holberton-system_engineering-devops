@@ -1,2 +1,2 @@
 #!/bin/bash
-head -4 iacta 
+head -n 4 iacta | tail -n + 4
