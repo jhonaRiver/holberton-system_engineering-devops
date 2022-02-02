@@ -11,3 +11,4 @@ In this repository you will find the projects related to system engineering and 
 * [0x02. Shell, I/O Redirections and filters](https://github.com/jhonaRiver/holberton-system_engineering-devops/tree/main/0x02-shell_redirections)
 * [0x03. Shell, init files, variables and expansions](https://github.com/jhonaRiver/holberton-system_engineering-devops/tree/main/0x03-shell_variables_expansions)
 >>>>>>> 37f278143b9eb5adcc23984cf532ce2be907f171
+# hodor
