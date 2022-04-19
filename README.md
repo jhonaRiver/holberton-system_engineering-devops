@@ -12,3 +12,6 @@ In this repository you will find the projects related to system engineering and 
 * [0x07. Networking basics #0](https://github.com/jhonaRiver/holberton-system_engineering-devops/tree/main/0x07-networking_basics)
 * [0x08. Networking basics #1](https://github.com/jhonaRiver/holberton-system_engineering-devops/tree/main/0x08-networking_basics_2)
 * [0x09. Web infrastructure design](https://github.com/jhonaRiver/holberton-system_engineering-devops/tree/main/0x09-web_infrastructure_design)
+* [0x0A. Configuration management](https://github.com/jhonaRiver/holberton-system_engineering-devops/tree/main/0x0A-configuration_management)
+* [0x0B. SSH](https://github.com/jhonaRiver/holberton-system_engineering-devops/tree/main/0x0B-ssh)
+* [0x0C. Web server](https://github.com/jhonaRiver/holberton-system_engineering-devops/tree/main/0x0C-web_server)
