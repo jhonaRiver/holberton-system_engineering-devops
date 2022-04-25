@@ -12,5 +12,5 @@ frontend load_balancer
 backend webserver
     balance roundrobin
     server 3643-web-01 35.196.111.72:80 check
-    server 3643-web-02 3.80.62.168:80 check" >> /etc/haproxy/haproxy.cfg
+    server 3643-web-02 3.80.62.168:80 check" sudo tee "/etc/haproxy/haproxy.cfg"
 sudo service haproxy restart
