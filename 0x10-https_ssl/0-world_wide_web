@@ -9,7 +9,7 @@ then
         details "$1" "$2"
 else
         details "$1" "www"
-        details "$1" "www"
-        details "$1" "www"
-        details "$1" "www"
+        details "$1" "lb-01"
+        details "$1" "web-01"
+        details "$1" "web-02"
 fi
